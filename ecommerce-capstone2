@@ -1,0 +1,19 @@
+1. Go to [Vercel.com](https://vercel.com/) and sign up using your **GitHub account**.
+2. Click **"Add New"** > **"Project"**.
+3. Import your `ecommerce-capstone` repository from the list.
+4. **Configure Project:** Vercel automatically detects Vite. Leave the default settings as they are:
+   * **Build Command:** `npm run build`
+   * **Output Directory:** `dist`
+5. Click **"Deploy"**.
+
+Within 1–2 minutes, Vercel will give you a live **public URL** (e.g., `[https://ecommerce-capstone.vercel.app](https://ecommerce-capstone.vercel.app)`). 
+
+---
+
+## Summary Checklist for Submission
+To present this successfully to your internship coordinator, ensure you have:
+1. **The GitHub Repository Link:** Containing clean, modular code.
+2. **The Live Vercel URL:** A fully clickable, working application.
+3. **A README.md file:** A brief description in your GitHub repo explaining the features built and the technologies used.
+
+Which specific part of the setup would
